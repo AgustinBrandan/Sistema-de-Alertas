@@ -3,6 +3,7 @@
 El codigo se encuentra en src/main
 Las pruebas estan realizadas en src/test
 
+
 ### Clases utilizadas 
 
 ##### Usuario
@@ -19,7 +20,7 @@ Clase que tiene como atributo tema y nos permite crear un tema.
 Clase que tiene como atributos una lista de usuarios y una lista de temas.
 Nos permite registrar usuarios al sistema, registrar temas al sistemas y una funcion que envia alerta dependiendo si es Informativa o Urgente.
 
-#### Test
+### Test
 Se testearon las principales funcionalidades del programa.
 
 ##### UsuarioTest
